@@ -10,6 +10,7 @@
     "postinstall": "next telemetry disable"
   },
   "dependencies": {
+    "@babel/runtime": "^7.26.0",
     "@react-google-maps/api": "^2.12.1",
     "@swc/core": "^1.8.0",
     "@types/react-leaflet": "^2.8.2",
