@@ -58,7 +58,7 @@ export default function SomethingIveBuilt() {
                 ></div>
               </a>
               <Img
-                src={"/foster.png"}
+                src={"/Foster.png"}
                 alt={"Project Screen shot"}
                 className={`w-full rounded h-full `}
               />
@@ -167,7 +167,7 @@ export default function SomethingIveBuilt() {
               </a>
 
               <Img
-                src={"/keenly.png"}
+                src={"/Keenly.png"}
                 alt={"Project Screen shot"}
                 className={`w-full rounded h-full `}
               />
