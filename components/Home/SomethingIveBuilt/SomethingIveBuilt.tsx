@@ -302,7 +302,7 @@ export default function SomethingIveBuilt() {
                 <div className="absolute w-full h-full bg-AAsecondary opacity-10 z-10"></div>
                 <div className="absolute w-full h-full bg-AAprimary opacity-80 z-10"></div>
                 <Img
-                  src={"/feverTokens.jpg"}
+                  src={"//Ostrich.png"}
                   alt={"Project Screen shot"}
                   className={`w-full h-full`}
                 />
@@ -323,7 +323,7 @@ export default function SomethingIveBuilt() {
                   rel="noopener noreferrer"
                 >
                   <span className=" md:text-gray-200 text-AAsecondary font-bold text-xl hover:cursor-pointer">
-                    FeverTokens
+                    Ostrich AI
                   </span>
                 </a>
               </div>
