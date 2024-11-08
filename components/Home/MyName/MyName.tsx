@@ -4,7 +4,7 @@ export default function MyName(props: { finishedLoading: boolean }) {
   return (
     <div
       className="h-full flex flex-col justify-center
-      px-8 2xl:px-72 xl:px-56 lg:px-32  md:px-28 sm:px-8 py-32 sm:py-52  "
+      px-8 2xl:px-72 xl:px-56 lg:px-32  md:px-28 sm:px-8 py-32 sm:py-52"
     >
       <motion.span
         initial={{ y: 10, opacity: 0 }}
@@ -55,7 +55,7 @@ export default function MyName(props: { finishedLoading: boolean }) {
         }}
         className="text-gray-400 font-bold text-3xl lg:text-7xl sm:text-5xl md:text-6xl mt-4"
       >
-        I turn ideas into reality.
+        Bringing concepts to life, pixel by pixel.
       </motion.h2>
 
       <motion.h3
@@ -82,11 +82,11 @@ export default function MyName(props: { finishedLoading: boolean }) {
         <span className="text-AAsecondary">front-end</span> and{" "}
         <span className="text-AAsecondary">back-end development</span>, I work
         with a diverse range of technologies, including{" "}
-        <span className="text-AAsecondary"> web3</span>
-        <br className="3xl:block hidden" /> and traditional web applications. I
-        enjoy solving challenging projects that drive{" "}
-        <span className="text-AAsecondary"> innovation</span> and deliver
-        high-quality results.
+        <span className="text-AAsecondary">React.js, Next.js</span>, and{" "}
+        <span className="text-AAsecondary">Node.js</span>.
+        <br className="3xl:block hidden" /> I enjoy solving challenging projects
+        that drive <span className="text-AAsecondary">innovation</span> and
+        deliver high-quality results.
         <br className="3xl:block hidden" /> My experience in{" "}
         <span className="text-AAsecondary">leading development teams</span> has
         honed my ability to collaborate effectively and translate ideas into
