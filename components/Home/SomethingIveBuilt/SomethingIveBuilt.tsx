@@ -236,8 +236,8 @@ export default function SomethingIveBuilt() {
                   implementing a{" "}
                   <span className="text-AAsecondary">custom dashboard</span>{" "}
                   that enabled users to seamlessly manage sustainability
-                  disclosures, showcasing Keenly's dedication to simplifying
-                  sustainability reporting for organizations.
+                  disclosures, showcasing Keenly&apos;s dedication to
+                  simplifying sustainability reporting for organizations.
                 </p>
               </div>
               <ul
@@ -347,7 +347,7 @@ export default function SomethingIveBuilt() {
                   implementing a{" "}
                   <span className="text-AAsecondary">custom dashboard</span>{" "}
                   that enabled users to seamlessly manage AI/ML projects,
-                  demonstrating Ostrich AI's commitment to democratizing AI
+                  demonstrating Ostrich AI&apos;s commitment to democratizing AI
                   infrastructure and empowering global AI/ML builders.
                 </p>
               </div>
@@ -450,8 +450,8 @@ export default function SomethingIveBuilt() {
                     depreciation rate finder
                   </span>{" "}
                   that enables users to accurately determine depreciation rates,
-                  reflecting Law Cyborg's dedication to providing innovative
-                  solutions for tax professionals.
+                  reflecting Law Cyborg&apos;s dedication to providing
+                  innovative solutions for tax professionals.
                 </p>
               </div>
               <ul
