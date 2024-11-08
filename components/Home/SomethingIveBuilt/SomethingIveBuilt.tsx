@@ -3,7 +3,6 @@ import { useRouter } from "next/router";
 import React from "react";
 import ArrowIcon from "../../Icons/ArrowIcon";
 import Img from "../../smallComp/image/Img";
-import GithubIcon from "../../Icons/GithubIconForSomethingIveBuild";
 import ExternalLink from "../../Icons/ExternalLink";
 
 export default function SomethingIveBuilt() {
@@ -97,28 +96,38 @@ export default function SomethingIveBuilt() {
                 </a>
               </div>
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
-                <p className="text-gray-300 md:text-gray-400 text-left md:text-left ">
-                  At <span className="text-AAsecondary">Vision</span>, I played
-                  a crucial role in developing web3 components for their{" "}
-                  <span className="text-AAsecondary">web3 application</span>{" "}
-                  using React.js and web3 libraries. Our focus was on
-                  integrating new features and improving the user interface. One
-                  notable achievement was the release of NameWrapper with{" "}
-                  <span className="text-AAsecondary">ERC72</span> support,
-                  enabling users to create{" "}
-                  <span className="text-AAsecondary">subdomains</span>. This
-                  showcased our commitment to delivering innovative solutions.
+                <p className="text-gray-300 md:text-gray-400 text-left md:text-left">
+                  At <span className="text-AAsecondary">Foster</span>, I
+                  contributed as a frontend developer, building and optimizing
+                  key components for their{" "}
+                  <span className="text-AAsecondary">
+                    talent engagement platform
+                  </span>{" "}
+                  using React.js. My role focused on creating user-friendly
+                  interfaces and enhancing user experience. I worked on{" "}
+                  <span className="text-AAsecondary">
+                    student and school modules
+                  </span>
+                  , integrating features for networking, job postings, and
+                  placement management. A major accomplishment was implementing
+                  dynamic engagement tools that enabled{" "}
+                  <span className="text-AAsecondary">
+                    students and institutions
+                  </span>{" "}
+                  to connect seamlessly with potential employers, showcasing
+                  Foster’s commitment to bridging educational and professional
+                  ecosystems.
                 </p>
               </div>
               <ul
                 className="flex flex-wrap w-full text-gray-300 md:text-gray-400
                text-sm font-Text2 md:justify-start"
               >
-                <span className="pr-4 z-10">ENS domains</span>
-                <span className="pr-4 z-10">ENS names</span>
-                <span className="pr-4 z-10">web3</span>
-                <span className="pr-4 z-10">NFT</span>
-                <span className="pr-4 z-10">ERC72</span>
+                <span className="pr-4 z-10">ReactJS</span>
+                <span className="pr-4 z-10">Storybook</span>
+                <span className="pr-4 z-10">MUI</span>
+                <span className="pr-4 z-10">Styled Component</span>
+                <span className="pr-4 z-10">TypeScript</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
                 {/* <GithubIcon link="https://github.com/binddk6/Ypredict" /> */}
@@ -146,7 +155,7 @@ export default function SomethingIveBuilt() {
           absolute md:grid grid-cols-12 w-full h-full  content-center"
           >
             <div className="relative rounded w-full h-full col-span-7 ">
-              {/* <Link href={"/typing"}>
+              {/* <Link href={"https://lawcyborg.com/"}>
                 <div
                   // onClick={}
                   className="absolute w-full h-full rounded bg-AAsecondary 
@@ -155,7 +164,7 @@ export default function SomethingIveBuilt() {
               </Link> */}
 
               <a
-                href="https://ubiquitous-bublanina-da84ec.netlify.app/"
+                href="https://keenlyco.com/"
                 target={"_blank"}
                 rel="noreferrer"
               >
@@ -182,7 +191,7 @@ export default function SomethingIveBuilt() {
                 <div className="absolute w-full h-full bg-AAsecondary opacity-10 z-10"></div>
                 <div className="absolute w-full h-full bg-AAprimary opacity-80 z-10"></div>
                 <Img
-                  src={"/img/YPredict-v1.jpg"}
+                  src={"/Keenly.png"}
                   alt={"Project Screen shot"}
                   className={`w-full h-full `}
                 />
@@ -198,48 +207,53 @@ export default function SomethingIveBuilt() {
                   Recent Project
                 </span>
                 <a
-                  href="https://ubiquitous-bublanina-da84ec.netlify.app/"
+                  href="https://keenlyco.com/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <span className=" md:text-gray-200 text-AAsecondary font-bold text-xl hover:cursor-pointer">
-                    YPredict - v1
+                    Keenly
                   </span>
                 </a>
               </div>
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
-                <p className="text-gray-300 md:text-gray-400 text-left ">
-                  I had the opportunity to lead the development of a token
-                  project, which aimed to create a decentralized ecosystem for
-                  peer-to-peer transactions. Overseeing the planning and
-                  development of the project, including the{" "}
-                  <span className="text-AAsecondary"> design</span> and
-                  implementation of the{" "}
-                  <span className="text-AAsecondary"> smart contract</span> and{" "}
+                <p className="text-gray-300 md:text-gray-400 text-left md:text-left">
+                  At <span className="text-AAsecondary">Keenly</span>, I
+                  architected and led the development of their{" "}
                   <span className="text-AAsecondary">
-                    {" "}
-                    blockchain technology
+                    sustainability reporting platform
                   </span>
-                  . Here i share with you{" "}
-                  <span className="text-AAsecondary"> YPredict - v1 </span> for
-                  the private sale.
+                  , building and optimizing components with React.js. My
+                  responsibilities included designing the application
+                  architecture, creating intuitive user interfaces, and
+                  enhancing the overall user experience. I spearheaded the
+                  development of{" "}
+                  <span className="text-AAsecondary">
+                    framework mapping and workflow optimization modules
+                  </span>
+                  , integrating features for data gathering, progress tracking,
+                  and process documentation. A significant accomplishment was
+                  implementing a{" "}
+                  <span className="text-AAsecondary">custom dashboard</span>{" "}
+                  that enabled users to seamlessly manage sustainability
+                  disclosures, showcasing Keenly's dedication to simplifying
+                  sustainability reporting for organizations.
                 </p>
               </div>
               <ul
                 className="flex flex-wrap w-full text-gray-300 md:text-gray-400
                text-sm font-Text2 md:justify-end"
               >
-                <span className="pr-4 z-10">Token</span>
-                <span className="pr-4 z-10">ERC20</span>
-                <span className="pr-4 z-10">Nextjs</span>
-                <span className="pr-4 z-10">Smart contract</span>
-                <span className="pr-4 z-10">Blockchain</span>
+                <span className="pr-4 z-10">ReactJS</span>
+                <span className="pr-4 z-10">Storybook</span>
+                <span className="pr-4 z-10">MUI</span>
+                <span className="pr-4 z-10">Styled Component</span>
+                <span className="pr-4 z-10">TypeScript</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
                 <div className="z-10 flex fle-row space-x-5 ">
-                  <GithubIcon link="https://github.com/binddk6/Ypredict" />
                   <a
-                    href="https://ubiquitous-bublanina-da84ec.netlify.app/"
+                    href="https://keenlyco.com/"
                     target={"_blank"}
                     rel="noreferrer"
                   >
@@ -263,7 +277,7 @@ export default function SomethingIveBuilt() {
           >
             <div className="relative rounded w-full h-full col-start-6 col-span-7 ">
               <a
-                href={"https://www.fevertokens.io/"}
+                href={"https://www.ostrich-ai.com/"}
                 target="_blank"
                 rel="noreferrer"
               >
@@ -304,7 +318,7 @@ export default function SomethingIveBuilt() {
                   Recent Project
                 </span>
                 <a
-                  href="https://www.fevertokens.io/"
+                  href="https://www.ostrich-ai.com/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -314,34 +328,42 @@ export default function SomethingIveBuilt() {
                 </a>
               </div>
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
-                <p className="text-gray-300 md:text-gray-400 text-left">
-                  I played a key role in developing an NFT marketplace project,
-                  focused on creating a decentralized platform with scalable{" "}
-                  <span className="text-AAsecondary"> smart contracts</span> and{" "}
+                <p className="text-gray-300 md:text-gray-400 text-left md:text-left">
+                  At <span className="text-AAsecondary">Ostrich AI</span>, I
+                  architected and led the development of their{" "}
                   <span className="text-AAsecondary">
-                    {" "}
-                    blockchain technology
+                    enterprise AI platform
                   </span>
-                  . This platform,{" "}
-                  <span className="text-AAsecondary"> FeverTokens - v2</span>,
-                  was showcased at the VivaTech2022 event in Paris, providing
-                  builders with tools to develop scalable Web3 applications.
+                  , building and optimizing components with React.js. My
+                  responsibilities included designing the application
+                  architecture, creating intuitive user interfaces, and
+                  enhancing the overall user experience. I spearheaded the
+                  development of{" "}
+                  <span className="text-AAsecondary">
+                    data curation and analytics modules
+                  </span>
+                  , integrating features for secure data sharing, model
+                  deployment, and collaboration. A major accomplishment was
+                  implementing a{" "}
+                  <span className="text-AAsecondary">custom dashboard</span>{" "}
+                  that enabled users to seamlessly manage AI/ML projects,
+                  demonstrating Ostrich AI's commitment to democratizing AI
+                  infrastructure and empowering global AI/ML builders.
                 </p>
               </div>
               <ul
                 className="flex flex-wrap w-full text-gray-300 md:text-gray-400
                text-sm font-Text2 md:justify-start"
               >
-                <span className="pr-4 z-10">Tokenization</span>
-                <span className="pr-4 z-10">ERC721</span>
-                <span className="pr-4 z-10">Solidity</span>
-                <span className="pr-4 z-10">Smart Contracts</span>
-                <span className="pr-4 z-10">Blockchain</span>
+                <span className="pr-4 z-10">React.js</span>
+                <span className="pr-4 z-10">Shadcn-ui</span>
+                <span className="pr-4 z-10">Monorepo</span>
+                <span className="pr-4 z-10">KeyCloak</span>
+                <span className="pr-4 z-10">Sonarqube</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
-                {/* <GithubIcon link="https://github.com/binddk6/Ypredict" /> */}
                 <a
-                  href="https://www.fevertokens.io/"
+                  href="https://www.ostrich-ai.com/"
                   target={"_blank"}
                   rel="noreferrer"
                 >
@@ -362,7 +384,7 @@ export default function SomethingIveBuilt() {
           absolute md:grid grid-cols-12 w-full h-full  content-center"
           >
             <div className="relative rounded w-full h-full col-span-7 ">
-              <Link href={"/typing"}>
+              <Link href={"https://lawcyborg.com/"}>
                 <div
                   // onClick={}
                   className="absolute w-full h-full rounded bg-AAsecondary 
@@ -386,7 +408,7 @@ export default function SomethingIveBuilt() {
                 <div className="absolute w-full h-full bg-AAsecondary opacity-10 z-10"></div>
                 <div className="absolute w-full h-full bg-AAprimary opacity-80 z-10"></div>
                 <Img
-                  src={"/typing.png"}
+                  src={"/lawcyborg.png"}
                   alt={"Project Screen shot"}
                   className={`w-full h-full `}
                 />
@@ -401,324 +423,48 @@ export default function SomethingIveBuilt() {
                 <span className="text-AAsecondary text-base">
                   Recent Project
                 </span>
-                <Link href={"/typing"}>
+                <Link href={"https://lawcyborg.com/"}>
                   <span className=" md:text-gray-200 text-AAsecondary font-bold text-xl hover:cursor-pointer">
                     Law cyborg
                   </span>
                 </Link>
               </div>
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
-                <p className="text-gray-300 md:text-gray-400 text-left md:text-right">
-                  This project aim to help you to improve your{" "}
-                  <span className="text-AAsecondary"> typing </span> by tracking
-                  your progress in{" "}
-                  <span className="text-AAsecondary"> each round</span> and give
-                  you a <span className="text-AAsecondary"> score</span> based
-                  on your typing speed and accuracy through a table of{" "}
-                  <span className="text-AAsecondary"> statistics</span>.
+                <p className="text-gray-300 md:text-gray-400 text-left md:text-left">
+                  At <span className="text-AAsecondary">Law Cyborg</span>, I
+                  serve as a full-stack developer, focusing on building and
+                  optimizing components for their{" "}
+                  <span className="text-AAsecondary">
+                    AI-powered tax research platform
+                  </span>{" "}
+                  using React.js and Node.js. My responsibilities include
+                  creating intuitive user interfaces and enhancing user
+                  experience. I work on{" "}
+                  <span className="text-AAsecondary">
+                    tax AI capabilities and security features
+                  </span>
+                  , integrating functionalities for in-depth research, opinion
+                  drafting, and data encryption. A significant achievement is
+                  implementing a{" "}
+                  <span className="text-AAsecondary">
+                    depreciation rate finder
+                  </span>{" "}
+                  that enables users to accurately determine depreciation rates,
+                  reflecting Law Cyborg's dedication to providing innovative
+                  solutions for tax professionals.
                 </p>
               </div>
               <ul
                 className="flex flex-wrap w-full text-gray-300 md:text-gray-400
                text-sm font-Text2 md:justify-end"
               >
-                <span className="pr-4 z-10">Algorithms</span>
-                <span className="pr-4 z-10">Framer Motion</span>
-                <span className="pr-4 z-10">Tailwind CSS</span>
-                <span className="pr-4 z-10">TypeScript</span>
+                <span className="pr-4 z-10">React.js</span>
+                <span className="pr-4 z-10">Node.Js</span>
+                <span className="pr-4 z-10">Socket</span>
+                <span className="pr-4 z-10">Postgres</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
-                <GithubIcon link="https://github.com/binddk6/Typing" />
-                <ExternalLink url={"typing"} router={router} />
-              </div>
-            </div>
-          </div>
-        </div>
-
-        {/* // ?  Project 4 */}
-        <div
-          data-aos="fade-up"
-          className="relative md:grid md:grid-cols-12 w-full md:h-96  "
-        >
-          {/* Left image */}
-          <div
-            className="hidden bg-AAprimary z-10  py-4 
-          absolute md:grid grid-cols-12 w-full h-full  content-center "
-          >
-            <div className="relative rounded w-full h-full col-start-6 col-span-7 ">
-              <Link href={"/userdatapuller"}>
-                <div
-                  className="absolute w-full h-full rounded bg-AAsecondary 
-           transition-opacity opacity-10 hover:opacity-0 hover:cursor-pointer duration-300"
-                ></div>
-              </Link>
-              <Img
-                src={"/hackme.jpg"}
-                alt={"Project Screen shot"}
-                className={`w-full rounded h-full `}
-              />
-            </div>
-          </div>
-
-          {/* right Content */}
-          <div className=" md:absolute py-4  md:grid md:grid-cols-12 w-full h-full  content-center ">
-            {/* background for text in mobile responsive */}
-            <div className="absolute w-full h-full bg-opacity-70 z-0 md:order-2">
-              <div className="relative w-full h-full">
-                <div className="absolute w-full h-full bg-AAsecondary opacity-10 z-10"></div>
-                <div className="absolute w-full h-full bg-AAprimary opacity-80 z-10"></div>
-                <Img
-                  src={"/hackme.jpg"}
-                  alt={"Project Screen shot"}
-                  className={`w-full h-full`}
-                />
-              </div>
-            </div>
-
-            <div
-              className="px-8 pt-8 sm:pt-12 md:py-0 xl:col-span-6   
-            col-span-8 flex flex-col items-start  space-y-3 md:order-1"
-            >
-              <div className="flex flex-col space-y-1  z-10">
-                <span className="text-AAsecondary text-base">
-                  Recent Project
-                </span>
-                <Link href={"/userdatapuller"}>
-                  <span className=" md:text-gray-200 text-AAsecondary font-bold text-xl hover:cursor-pointer">
-                    User Data puller
-                  </span>
-                </Link>
-              </div>
-              <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
-                <p className="text-gray-300 md:text-gray-400 text-left ">
-                  This project allows you to understand how easy it is to
-                  identify and track your browser based on how it appears to
-                  websites. Such as your
-                  <span className="text-AAsecondary"> location</span>,{" "}
-                  <span className="text-AAsecondary">IP Address</span>,{" "}
-                  <span className="text-AAsecondary">
-                    {","} software, Hardware
-                  </span>{" "}
-                  and some additional information with the help of cookies.
-                </p>
-              </div>
-              <ul
-                className="flex flex-wrap w-full text-gray-300 md:text-gray-400
-               text-sm font-Text2 md:justify-start"
-              >
-                <span className="pr-4 z-10">Cookies</span>
-                <span className="pr-4 z-10">Google APi</span>
-                <span className="pr-4 z-10">Data collecting</span>
-                <span className="pr-4 z-10">IP Address</span>
-                <span className="pr-4 z-10">Location</span>
-              </ul>
-              <div className="z-10 flex fle-row space-x-5 ">
-                <GithubIcon link="https://github.com/binddk6/DataPuller" />
-                <ExternalLink url={"/userdatapuller"} router={router} />
-              </div>
-            </div>
-          </div>
-        </div>
-
-        {/* // ? Project 5 */}
-        <div
-          data-aos="fade-up"
-          className="relative md:grid md:grid-cols-12 w-full md:h-96"
-        >
-          {/* Left image */}
-          <div
-            className="hidden bg-AAprimary z-10  py-4 
-          absolute md:grid grid-cols-12 w-full h-full  content-center"
-          >
-            <div className="relative rounded w-full h-full col-span-7 ">
-              <a
-                href="https://www.haircut.ma"
-                target={"_blank"}
-                rel="noreferrer"
-              >
-                <div
-                  // onClick={}
-                  className="absolute w-full h-full rounded bg-AAprimary 
-           transition-opacity opacity-50 hover:opacity-0 hover:cursor-pointer duration-300"
-                ></div>
-              </a>
-
-              <div className="absolute px-2 bg-AAprimary rounded  ml-4 mt-2 ">
-                <span className="text-AAsecondary text-xl">
-                  In initiation...
-                </span>
-              </div>
-
-              <Img
-                src={"/haircut.png"}
-                alt={"Project Screen shot"}
-                className={`w-full rounded h-full `}
-              />
-            </div>
-          </div>
-
-          {/* right Content */}
-          <div className=" md:absolute py-4  md:grid md:grid-cols-12 w-full h-full  content-center ">
-            {/* background for text in mobile responsive */}
-            <div className="absolute w-full h-full bg-opacity-70 z-0">
-              <div className="relative w-full h-full">
-                <div className="absolute w-full h-full bg-AAsecondary opacity-10 z-10"></div>
-                <div className="absolute w-full h-full bg-AAprimary opacity-80 z-10"></div>
-                <Img
-                  src={"/haircut.png"}
-                  alt={"Project Screen shot"}
-                  className={`w-full h-full `}
-                />
-              </div>
-            </div>
-            <div className="absolute w-full   rounded  ml-4 mt-2  text-end pr-8">
-              <div className="w-full"></div>
-              <span className="text-AAsecondary sm:text-lg bg-AAprimary px-2 py-1 rounded">
-                In initiation...
-              </span>
-            </div>
-            <div
-              className="px-8 pt-8 sm:pt-12 md:py-0 xl:col-span-6 xl:col-start-7 col-start-5 
-            col-span-8 flex flex-col items-start md:items-end sm:space-y-3 space-y-1"
-            >
-              <div className="flex flex-col space-y-1 md:items-end z-10">
-                <span className="text-AAsecondary text-base">
-                  Recent Project
-                </span>
-                <a
-                  href="https://www.haircut.ma"
-                  target={"_blank"}
-                  rel="noreferrer"
-                >
-                  <span className=" md:text-gray-200 text-AAsecondary font-bold text-xl hover:cursor-pointer">
-                    Haircut Appointment
-                  </span>
-                </a>
-              </div>
-              <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
-                <p className="text-gray-300 md:text-gray-400 text-left md:text-right">
-                  It&apos; a barber shop{" "}
-                  <span className="text-AAsecondary">
-                    appointment scheduling
-                  </span>{" "}
-                  & management software it provides{" "}
-                  <span className="text-AAsecondary">online scheduling</span>,
-                  appointment reminders,{" "}
-                  <span className="text-AAsecondary">payments</span>, marketing,
-                  and much more! Currently in the{" "}
-                  <span className="text-AAsecondary">Initiation phase</span>.
-                </p>
-              </div>
-              <ul
-                className="flex flex-wrap w-full text-gray-300 md:text-gray-400
-               text-sm font-Text2 md:justify-end"
-              >
-                <span className="pr-4 z-10">Appointment</span>
-                <span className="pr-4 z-10">Management</span>
-                <span className="pr-4 z-10">Scheduling</span>
-                <span className="pr-4 z-10">Booking</span>
-              </ul>
-              <div className="z-10 flex fle-row space-x-5 sm:pt-0 pt-2">
-                <GithubIcon link="https://github.com/binddk6/haircut" />
-                <a
-                  href="https://www.haircut.ma"
-                  target={"_blank"}
-                  rel="noreferrer"
-                >
-                  <ExternalLink url={""} router={router} />
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        {/* // ?  Project 6 */}
-        <div
-          data-aos="fade-up"
-          className="relative md:grid md:grid-cols-12 w-full md:h-96  "
-        >
-          {/* Left image */}
-          <div
-            className="hidden bg-AAprimary z-10  py-4 
-          absolute md:grid grid-cols-12 w-full h-full  content-center "
-          >
-            <div className="relative rounded w-full h-full col-start-6 col-span-7 ">
-              <a
-                href="https://github.com/binddk6/CallCenter"
-                target={"_blank"}
-                rel="noreferrer"
-              >
-                <div
-                  className="absolute w-full h-full rounded bg-AAprimary 
-           transition-opacity opacity-60 hover:opacity-0 hover:cursor-pointer duration-300"
-                ></div>
-              </a>
-
-              <Img
-                src={"/CallCenter.png"}
-                alt={"Project Screen shot"}
-                className={`w-full rounded h-full `}
-              />
-            </div>
-          </div>
-
-          {/* right Content */}
-          <div className=" md:absolute py-4  md:grid md:grid-cols-12 w-full h-full  content-center ">
-            {/* background for text in mobile responsive */}
-            <div className="absolute w-full h-full bg-opacity-70 z-0 md:order-2">
-              <div className="relative w-full h-full">
-                <div className="absolute w-full h-full bg-AAprimary opacity-50 z-10"></div>
-                <div className="absolute w-full h-full bg-AAprimary opacity-80 z-10"></div>
-                <Img
-                  src={"/CallCenter.png"}
-                  alt={"Project Screen shot"}
-                  className={`w-full h-full`}
-                />
-              </div>
-            </div>
-
-            <div
-              className="px-8 pt-8 sm:pt-12 md:py-0 xl:col-span-6   
-            col-span-8 flex flex-col items-start  sm:space-y-3 md:order-1"
-            >
-              <div className="flex flex-col space-y-1  z-10">
-                <span className="text-AAsecondary text-base">
-                  Recent Project
-                </span>
-                <a
-                  href="https://github.com/binddk6/CallCenter"
-                  target={"_blank"}
-                  rel="noreferrer"
-                >
-                  <span className=" md:text-gray-200 text-AAsecondary font-bold text-xl hover:cursor-pointer">
-                    Call Center Management System
-                  </span>
-                </a>
-              </div>
-              <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
-                <p className="text-gray-300 md:text-gray-400 text-left ">
-                  A{" "}
-                  <span className="text-AAsecondary">
-                    JavaFX call center management system
-                  </span>{" "}
-                  project it is used for receiving or transmitting a large
-                  volume of enquiries between the agent and the customer,it
-                  handles the communication between agents & clients it can be
-                  used for the both side client & agent side to handle the
-                  messages and issues.
-                </p>
-              </div>
-              <ul
-                className="flex flex-wrap w-full text-gray-300 md:text-gray-400
-               text-sm font-Text2 md:justify-start"
-              >
-                <span className="pr-4 z-10">JavaFX</span>
-                <span className="pr-4 z-10">Java Concurrency</span>
-                <span className="pr-4 z-10">MultiThreading</span>
-                <span className="pr-4 z-10">MySQL</span>
-              </ul>
-              <div className="z-10 flex fle-row space-x-5 sm:pt-0 pt-2">
-                <GithubIcon link="https://github.com/binddk6/CallCenter" />
+                <ExternalLink url={""} router={router} />
               </div>
             </div>
           </div>

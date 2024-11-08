@@ -2,10 +2,10 @@
   <img alt="Logo" src="https://user-images.githubusercontent.com/62770500/199333052-3cd38b31-7e77-4883-a1ff-a037afcc0492.png" width="100" />
 </div>
 <h1 align="center">
-  anaflous.com - v1
+  portfolio-deepak-kumar.vercel.app - v1
 </h1>
 <p align="center">
-  The first iteration of <a href="https://anaflous.com" target="_blank">anaflous.com</a> built with <a href="https://nextjs.org/" target="_blank">Nextjs</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
+  The first iteration of <a href="https://portfolio-deepak-kumar.vercel.app/" target="_blank">portfolio-deepak-kumar.vercel.app</a> built with <a href="https://nextjs.org/" target="_blank">Nextjs</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
 </p>
 
 <p align="center">
@@ -72,7 +72,7 @@ Since i integrated some of my project into my website i'll i mention most of tec
 
 ### How To Use
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [anaflous.com](https://anaflous.com). Thanks!
+Yes, you can fork this repo. Please give me proper credit by linking back to [portfolio-deepak-kumar.vercel.app](https://portfolio-deepak-kumar.vercel.app/). Thanks!
 
 ## 🛠 Installation & Set Up
 
@@ -250,6 +250,6 @@ SOFTWARE.
 ## Author Info
 
 - Linkedin - [@abdellatif-anaflous](https://www.linkedin.com/in/k-deepak33/)
-- Website - [ Deepak](https://anaflous.com)
+- Website - [ Deepak](https://portfolio-deepak-kumar.vercel.app/)
 
 [Back To The Top](#description) :

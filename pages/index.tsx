@@ -139,8 +139,14 @@ export default function Home() {
         <title>{meta.title}</title>
         <meta name="robots" content="follow, index" />
         <meta content={meta.description} name="description" />
-        <meta property="og:url" content={`https://anaflous.com`} />
-        <link rel="canonical" href={`https://anaflous.com`} />
+        <meta
+          property="og:url"
+          content={`https://portfolio-deepak-kumar.vercel.app/`}
+        />
+        <link
+          rel="canonical"
+          href={`https://portfolio-deepak-kumar.vercel.app/`}
+        />
         <meta property="og:type" content={meta.type} />
         <meta property="og:site_name" content="Manu Arora" />
         <meta property="og:description" content={meta.description} />

@@ -4,14 +4,20 @@ import ArrowIcon from "../../../components/Icons/ArrowIcon";
 export default function AboutMe(props) {
   const technologies = [
     [
-      "Nextjs/React",
+      "React.js/Next.js",
       "TypeScript/JavaScript",
-      "Tailwind CSS",
-      "Ether.js/web3.js",
+      "Tailwind CSS/Material UI",
       "AWS/Google Cloud",
     ],
-    ["Node.js", "Java", "Solidity", "Mongodb", "GraphQL/RESTful APIs"],
+    [
+      "Node.js/Express",
+      "Docker",
+      "Solidity",
+      "PostgreSQL/MongoDB",
+      "GraphQL/RESTful APIs",
+    ],
   ];
+
   return (
     <div
       id="aboutSection"
@@ -52,13 +58,14 @@ export default function AboutMe(props) {
                 </span>{" "}
                 with strong problem-solving skills. My journey in computer
                 science started at 4 years old when I explored Ethical Hacking
-                using BackTrack OS, which started my interest in programming.
+                using BackTrack OS, which sparked my interest in programming.
                 Over the years, I continued to teach myself coding, which led me
                 to pursue an{" "}
-                <span className="text-AAsecondary">engineering degree</span>{" "}
+                <span className="text-AAsecondary">engineering degree</span>,
                 making me a professional in this field.
               </span>
             </div>
+
             <div className="font-Header text-justify">
               <span className="text-gray-400 ">
                 Throughout my education and career, from my self-learning days
@@ -68,23 +75,29 @@ export default function AboutMe(props) {
                 <span className="text-AAsecondary">
                   Tata Consultancy Services
                 </span>
-                , <span className="text-AAsecondary">Smartsense Solutions</span>
-                , and many others, including GenAI and international companies.
-                At SmartSense, I led the development of an innovative NFT
-                marketplace, and at Vision, which is the{" "}
-                <span className="text-AAsecondary">second-largest market</span>{" "}
-                in the world for <span className="text-AAsecondary">ENS</span>,
-                I led the development of their new NameWrapper release.
+                , <span className="text-AAsecondary">SmartSense Solutions</span>
+                , and other innovative firms like GenAI. At Foster, I
+                contributed to building a{" "}
+                <span className="text-AAsecondary">
+                  talent engagement platform
+                </span>{" "}
+                that connects students, schools, and employers. Currently, at{" "}
+                <span className="text-AAsecondary">Law Cyborg</span>, I work as
+                a full-stack developer, designing and enhancing a{" "}
+                <span className="text-AAsecondary">tax research platform</span>{" "}
+                with secure data handling and dynamic features for legal
+                professionals.
               </span>
             </div>
 
             <div className="font-Header tracking-wide text-justify ">
-              <span className="text-gray-400  ">
-                I&apos;m always interested to keep learning and improve my
-                skills to make a positive impact in the tech world. Here are
-                some of the technologies I&apos;ve been working with :{" "}
+              <span className="text-gray-400">
+                I&apos;m always eager to keep learning and improving my skills
+                to make a positive impact in the tech world. Here are some of
+                the technologies I&apos;ve been working with:
               </span>
             </div>
+
             <div className="font-Header tracking-wide flex flex-row space-x-16  justify-center lg:justify-start">
               <div className="flex flex-row space-x-2 items-center">
                 <div className="flex flex-col space-y-4 sm:text-base text-sm">
