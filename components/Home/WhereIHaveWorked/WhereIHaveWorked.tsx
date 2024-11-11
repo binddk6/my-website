@@ -5,8 +5,6 @@ import TCSDescription from "./Descriptions/SmartSenseDescription";
 import SmartSenseDescription from "./Descriptions/TCSDescription";
 
 export default function WhereIHaveWorked() {
-  const barRef = React.useRef<HTMLDivElement>(null);
-
   const GetDescription = () => {
     switch (DescriptionJob) {
       case "TCS":
