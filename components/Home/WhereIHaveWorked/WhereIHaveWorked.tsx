@@ -1,8 +1,8 @@
 import React from "react";
 import { motion } from "../../../node_modules/framer-motion/dist/framer-motion";
 import ArrowIcon from "../../Icons/ArrowIcon";
-import TCSDescription from "./Descriptions/SmartSenseDescription";
-import SmartSenseDescription from "./Descriptions/TCSDescription";
+import TCSDescription from "./Descriptions/TCSDescription";
+import SmartSenseDescription from "./Descriptions/SmartSenseDescription";
 
 export default function WhereIHaveWorked() {
   const GetDescription = () => {
